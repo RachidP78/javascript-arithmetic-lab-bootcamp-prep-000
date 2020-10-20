@@ -1,13 +1,14 @@
-var x
-var y
+var a
+var b
+var number
 
 
-function add(x, y) {
-  number = x + y
+function add(a, b) {
+  number = a + b
 }
 
-function subtract() {
-
+function subtract(a, b) {
+  number = a - b
 }
 
 function multiply() {
