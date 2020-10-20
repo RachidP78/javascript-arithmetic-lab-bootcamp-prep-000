@@ -1,6 +1,6 @@
 var a
 var b
-var number
+var n
 
 
 function add(a, b) {
