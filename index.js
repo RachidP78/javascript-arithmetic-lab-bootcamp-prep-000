@@ -19,12 +19,12 @@ function divide() {
   return = a / b
 }
 
-function increment(number) {
-  return number += 1
+function increment(n) {
+  return n += 1
 }
 
-function decrement(number) {
-  return number -= 1
+function decrement(n) {
+  return n -= 1
 }
 
 function makeInt(string) {
