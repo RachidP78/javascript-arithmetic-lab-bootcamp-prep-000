@@ -4,19 +4,23 @@ var number = 1
 
 
 function add(a, b) {
-  number = a + b
+  result = a + b
+  return result 
 }
 
 function subtract(a, b) {
-  number = a - b
+  result = a - b
+  return result 
 }
 
-function multiply() {
-
+function multiply(a, b) {
+  result = a * b 
+  return result
 }
 
 function divide() {
-
+  result = a / b 
+  return result
 }
 
 function increment(number) {
