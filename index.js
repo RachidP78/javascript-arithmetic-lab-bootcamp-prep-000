@@ -19,12 +19,12 @@ function divide() {
 
 }
 
-function increment() {
-
+function increment(number) {
+  number += 1
 }
 
-function decrement() {
-
+function decrement(number) {
+  number -= 1
 }
 
 function makeInt() {
