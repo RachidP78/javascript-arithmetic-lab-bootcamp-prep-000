@@ -1,42 +1,38 @@
 var a
 var b
 var number
-var result
 
 
 function add(a, b) {
-  result = a + b
-  return result
+  return = a + b
 }
 
 function subtract(a, b) {
-  result = a - b
-  return result
+  return = a - b
 }
 
 function multiply(a, b) {
-  result = a * b
-  return result
+  return a * b
 }
 
 function divide() {
-  result = a / b
-  return result
+  return = a / b
 }
 
 function increment(number) {
-  number += 1
+  return number += 1
 }
 
 function decrement(number) {
-  number -= 1
-  return number
+  return number -= 1
 }
 
-function makeInt() {
+function makeInt(string) {
+  return parseInt(string, 10)
 
 }
 
-function preserveDecimal() {
+function preserveDecimal(string) {
+  return preserveDecimal(string)
 
 }
