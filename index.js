@@ -1,7 +1,7 @@
 var a
 var b
 var number = 1
-var result 
+var result = integer() 
 
 
 function add(a, b) {
