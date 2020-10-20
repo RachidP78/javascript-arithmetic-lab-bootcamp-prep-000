@@ -5,21 +5,21 @@ var number = 1
 
 function add(a, b) {
   result = a + b
-  return result 
+  return result
 }
 
 function subtract(a, b) {
   result = a - b
-  return result 
+  return result
 }
 
 function multiply(a, b) {
-  result = a * b 
+  result = a * b
   return result
 }
 
 function divide() {
-  result = a / b 
+  result = a / b
   return result
 }
 
