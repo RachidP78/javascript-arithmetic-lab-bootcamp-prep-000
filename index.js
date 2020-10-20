@@ -25,6 +25,7 @@ function increment(number) {
 
 function decrement(number) {
   number -= 1
+  return number
 }
 
 function makeInt() {
