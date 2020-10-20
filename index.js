@@ -1,6 +1,6 @@
 var a
 var b
-var number
+var number = 1 
 
 
 function add(a, b) {
